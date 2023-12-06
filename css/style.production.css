@@ -284,3 +284,6 @@ button:hover, button:focus, .button:hover, .button:focus {
     -webkit-animation-timing-function: linear;
             animation-timing-function: linear;
 }
+.job-title {
+    color: #357b70; 
+}
