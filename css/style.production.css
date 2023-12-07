@@ -308,3 +308,13 @@ button:hover, button:focus, .button:hover, .button:focus {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+.contact-me {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.contact-me form {
+    margin: 50px;
+}
