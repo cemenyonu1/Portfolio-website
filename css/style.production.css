@@ -139,10 +139,13 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 
 .grid__item {
-    background-color: lightgray;
+    background-color: lightblue;
     width: auto;
     min-height: auto;
     margin: 0;
+    border-radius: 30%;
+    text-align: center;
+    padding: 10px;
 }
 
 .grid__item:last-child {
@@ -290,5 +293,18 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 
 .about-me {
-    background-color: aquamarine;
+    background-color: lightblue;
+    text-align: center;
+    padding: 50px;
+    border-radius: 50%;
+}
+
+.about-me table {
+    margin: 0 auto;
+}
+
+.work-heading {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
