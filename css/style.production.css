@@ -287,3 +287,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 .job-title {
     color: #357b70; 
 }
+
+.about-me {
+    background-color: aquamarine;
+}
